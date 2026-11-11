@@ -1,1 +1,13 @@
-{"name":"blitzschlag-2027","private":true,"version":"1.0.0","type":"module","scripts":{"start":"node server.js","dev":"node server.js"},"engines":{"node":">=18"}}
+{
+  "name": "blitzschlag-2027",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
